@@ -6,7 +6,7 @@
 
 Gateway alojado para Claude Code, Codex CLI y herramientas con OpenAI SDK: cambia dos variables de entorno y todas tus herramientas de código con IA pasan por un mismo endpoint, un mismo saldo y un libro de costes por solicitud.
 
-[Empezar](https://teapotrouter.com/es/register) · [Precios — públicos, JSON legible por máquinas](https://teapotrouter.com/api/pricing) · [Documentación](https://teapotrouter.com/es/docs)
+[Empezar](https://teapotrouter.com/es/register) · [Precios — públicos, JSON legible por máquinas](https://teapotrouter.com/api/pricing) · [Documentación](https://teapotrouter.com/es/docs) · [Estado](https://teapotrouter.com/es/status)
 
 </div>
 
